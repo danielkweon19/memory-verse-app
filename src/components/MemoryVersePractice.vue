@@ -35,11 +35,13 @@ watch([currentVerseIndex, currentLanguage], () => {
 
 function changeVerse(index) {
   currentVerseIndex.value = index;
+  resetInputsAndValidationStates()
 }
 
 
 function changeLanguage(language) {
   currentLanguage.value = language.toLowerCase();
+  resetInputsAndValidationStates()
 }
 
 function showFlag() {
