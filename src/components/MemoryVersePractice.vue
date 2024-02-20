@@ -17,10 +17,9 @@ const displayedVerse = ref('');
 
 
 const currentLanguage = ref(verseSetStore.currentLanguage)
-const currentVerse = ref(currentSet[0]);
 
-const currentVerseIndex = ref(0);
-
+const currentVerseIndex = ref(Math.floor(Math.random() * currentSet.length));
+const currentVerse = ref(currentSet[currentVerseIndex.value]);
 // Reactive property to store the processed verse
 const processedVerse = ref([]);
 
@@ -198,7 +197,7 @@ function resetInputsAndValidationStates() {
       <div class="col-md-4 mb-2">
         <div class="dropdown">
           <button class="btn btn-danger dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Mode: {{ currentMode }}
+            {{ currentMode }}
           </button>
           <ul class="dropdown-menu">
             <li><a class="dropdown-item" href="#" @click="() => changeMode('Practice Blanks')">Practice Blanks</a></li>
@@ -224,7 +223,7 @@ function resetInputsAndValidationStates() {
       </div>
       <!-- Verse Selection -->
       <div class="col-md-4 mb-2">
-        <div class="dropdown">
+        <div class="dropdown" :class="{ 'hide-text': currentMode === 'Practice Reference' }">
           <button class="btn btn-primary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
             {{ currentVerse[currentLanguage]["reference"] }}
           </button>
@@ -285,7 +284,26 @@ function resetInputsAndValidationStates() {
 
 
 <style scoped>
-#blank-answer{
+/* Hide dropdown text unless hovered */
+.hide-text .dropdown-toggle {
+  color: transparent;
+}
+
+.hide-text .dropdown-toggle:hover,
+.hide-text .dropdown-toggle:focus {
+  color: white; /* Reset to default color on hover/focus */
+}
+
+/* Ensure dropdown menu items are always visible */
+.hide-text .dropdown-menu .dropdown-item {
+  color: initial;
+}
+
+.highlighted {
+  background-color: lightblue;
+}
+
+#blank-answer {
   border: 1px solid #ced4da;
   border-radius: 0.25rem;
   padding: 10px;
@@ -320,6 +338,13 @@ function resetInputsAndValidationStates() {
 .correct {
   border: 2px solid green;
   background-color: #e6ffe6;
+}
+
+.dropdown-menu {
+  max-height: 200px;
+  /* Set a maximum height */
+  overflow-y: auto;
+  /* Enable scrolling */
 }
 
 .incorrect {

@@ -1,5 +1,5 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import HomeView from '../views/HomeView.vue'
+// import HomeView from '../views/HomeView.vue'
 import PeaceWithGodVue from '../views/PeaceWithGod.vue'
 
 const router = createRouter({
@@ -8,13 +8,18 @@ const router = createRouter({
     {
       path: '/',
       name: 'home',
-      component: HomeView
-    },
-    {
-      path: '/peace-with-God',
-      name: 'peacewithGod',
       component: PeaceWithGodVue
     }
+    // {
+    //   path: '/',
+    //   name: 'home',
+    //   component: HomeView
+    // },
+    // {
+    //   path: '/peace-with-God',
+    //   name: 'peacewithGod',
+    //   component: PeaceWithGodVue
+    // }
   ]
 })
 
