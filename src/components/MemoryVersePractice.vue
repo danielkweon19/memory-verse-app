@@ -1,4 +1,7 @@
 <script setup>
+import RedoSVG from '@/assets/redo.svg';
+import NextSVG from '@/assets/next.svg';
+import UploadSVG from '@/assets/upload.svg';
 import { useVerseSetStore } from '@/stores/verseSets';
 import { ref, watch } from 'vue';
 
@@ -277,9 +280,9 @@ function resetInputsAndValidationStates() {
 
     <!-- Action Buttons -->
     <div class="d-flex gap-2 mt-3">
-      <button class="btn btn-success" @click="checkAnswers">Submit</button>
-      <button class="btn btn-warning" @click="retryCurrentVerse">Retry Verse</button>
-      <button class="btn btn-secondary" @click="goToNextRandomVerse">Next Verse</button>
+      <button class="btn btn-success" @click="checkAnswers">Submit <UploadSVG/> </button>
+      <button class="btn btn-warning" @click="retryCurrentVerse">Retry Verse <RedoSVG /></button>
+      <button class="btn btn-secondary" @click="goToNextRandomVerse">Next Verse <NextSVG /></button>
     </div>
   </div>
 </template>

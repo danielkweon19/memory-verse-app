@@ -2,6 +2,7 @@ import { fileURLToPath, URL } from 'node:url'
 
 import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
+import svgLoader from 'vite-svg-loader'
 
 // https://vitejs.dev/config/
 // How to deploy to git: https://www.youtube.com/watch?v=yo2bMGnIKE8&ab_channel=LearnVue
@@ -12,7 +13,7 @@ import vue from '@vitejs/plugin-vue'
 export default defineConfig({
   base: '/memory-verse-app/',
   plugins: [
-    vue(),
+    vue(), svgLoader()
   ],
   resolve: {
     alias: {

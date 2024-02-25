@@ -141,26 +141,6 @@
     },
     {
         "english": {
-            "reference": "Genesis 1:11-12",
-            "verse": "Then God said, \"Let the earth bring forth grass, the herb that yields seed, and the fruit tree that yields fruit according to its kind, whose seed is in itself, on the earth\"; and it was so. And the earth brought forth grass, the herb that yields seed according to its kind, and the tree that yields fruit, whose seed is in itself according to its kind. And God saw that it was good."
-        },
-        "korean": {
-            "reference": "창세기 1:11-12",
-            "verse": "하나님이 가라사대 땅은 풀과 씨 맺는 채소와 각기 종류대로 씨 가진 열매 맺는 과목을 내라 하시매 그대로 되어 땅이 풀과 각기 종류대로 씨 맺는 채소와 각기 종류대로 씨 가진 열매 맺는 나무를 내니 하나님의 보시기에 좋았더라"
-        }
-    },
-    {
-        "english": {
-            "reference": "Genesis 1:20-25",
-            "verse": "Then God said, \"Let the waters abound with an abundance of living creatures, and let birds fly above the earth across the face of the firmament of the heavens.\" So God created great sea creatures and every living thing that moves, with which the waters abounded, according to their kind, and every winged bird according to its kind. And God saw that it was good. And God blessed them, saying, \"Be fruitful and multiply, and fill the waters in the seas, and let birds multiply on the earth.\" So the evening and the morning were the fifth day. Then God said, \"Let the earth bring forth the living creature according to its kind: cattle and creeping thing and beast of the earth, each according to its kind\"; and it was so. And God made the beast of the earth according to its kind, cattle according to its kind, and everything that creeps on the earth according to its kind. And God saw that it was good."
-        },
-        "korean": {
-            "reference": "창세기 1:20-25",
-            "verse": "하나님이 가라사대 물들은 생물로 번성케 하라 땅 위 하늘의 궁창에는 새가 날으라 하시고 하나님이 큰 물고기와 물에서 번성하여 움직이는 모든 생물을 그 종류대로, 날개 있는 모든 새를 그 종류대로 창조하시니 하나님의 보시기에 좋았더라 하나님이 그들에게 복을 주어 가라사대 생육하고 번성하여 여러 바다 물에 충만하라 새들도 땅에 번성하라 하시니라 저녁이 되며 아침이 되니 이는 다섯째 날이니라 하나님이 가라사대 땅은 생물을 그 종류대로 내되 육축과 기는 것과 땅의 짐승을 종류대로 내라 하시고 (그대로 되니라) 하나님이 땅의 짐승을 그 종류대로, 육축을 그 종류대로, 땅에 기는 모든 것을 그 종류대로 만드시니 하나님의 보시기에 좋았더라"
-        }
-    },
-    {
-        "english": {
             "reference": "Romans 1:19-20",
             "verse": "because what may be known of God is manifest in them, for God has shown it to them. For since the creation of the world His invisible attributes are clearly seen, being understood by the things that are made, even His eternal power and Godhead, so that they are without excuse,"
         },
@@ -217,6 +197,116 @@
         "korean": {
             "reference": "욥기 12:7-9",
             "verse": "이제 모든 짐승에게 물어 보라 그것들이 네게 가르치리라 공중의 새에게 물어 보라 그것들이 또한 네게 고하리라 땅에게 말하라 네게 가르치리라 바다의 고기도 네게 설명하리라 이것들 중에 어느 것이 여호와의 손이 이를 행하신 줄을 알지 못하랴"
+        }
+    },
+    {
+        "english": {
+            "reference": "Genesis 1:27",
+            "verse": "So God created man in His own image; in the image of God He created him; male and female He created them."
+        },
+        "korean": {
+            "reference": "창세기 1:27",
+            "verse": "하나님이 자기 형상 곧 하나님의 형상대로 사람을 창조하시되 남자와 여자를 창조하시고"
+        }
+    },
+    {
+        "english": {
+            "reference": "1 Thessalonians 5:23",
+            "verse": "Now may the God of peace Himself sanctify you completely; and may your whole spirit, soul, and body be preserved blameless at the coming of our Lord Jesus Christ."
+        },
+        "korean": {
+            "reference": "데살로니가전서 5:23",
+            "verse": "평강의 하나님이 친히 너희로 온전히 거룩하게 하시고 또 너희 온 영과 혼과 몸이 우리 주 예수 그리스도 강림하실 때에 흠없게 보전되기를 원하노라"
+        }
+    },
+    {
+        "english": {
+            "reference": "Romans 2:15-16",
+            "verse": "who show the work of the law written in their hearts, their conscience also bearing witness, and between themselves their thoughts accusing or else excusing them) in the day when God will judge the secrets of men by Jesus Christ, according to my gospel."
+        },
+        "korean": {
+            "reference": "로마서 2:15-16",
+            "verse": "이런 이들은 그 양심이 증거가 되어 그 생각들이 서로 혹은 송사하며 혹은 변명하여 그 마음에 새긴 율법의 행위를 나타내느니라) 곧 내 복음에 이른 바와 같이 하나님이 예수 그리스도로 말미암아 사람들의 은밀한 것을 심판하시는 그 날이라"
+        }
+    },
+    {
+        "english": {
+            "reference": "Proverbs 20:27",
+            "verse": "The spirit of a man is the lamp of the LORD, Searching all the inner depths of his heart."
+        },
+        "korean": {
+            "reference": "잠언 20:27",
+            "verse": "사람의 영혼은 여호와의 등불이라 사람의 깊은 속을 살피느니라"
+        }
+    },
+    {
+        "english": {
+            "reference": "Psalms 10:4",
+            "verse": "The wicked in his proud countenance does not seek God; God is in none of his thoughts."
+        },
+        "korean": {
+            "reference": "시편 10:4",
+            "verse": "악인은 그 교만한 얼굴로 말하기를 여호와께서 이를 감찰치 아니하신다 하며 그 모든 사상에 하나님이 없다 하나이다"
+        }
+    },
+    {
+        "english": {
+            "reference": "Psalms 14:1",
+            "verse": "The fool has said in his heart, \"There is no God.\" They are corrupt, They have done abominable works, There is none who does good."
+        },
+        "korean": {
+            "reference": "시편 14:1",
+            "verse": "어리석은 자는 그 마음에 이르기를 하나님이 없다 하도다 저희는 부패하고 소행이 가증하여 선을 행하는 자가 없도다"
+        }
+    },
+    {
+        "english": {
+            "reference": "Ecclesiastes 3:11",
+            "verse": "He has made everything beautiful in its time. Also He has put eternity in their hearts, except that no one can find out the work that God does from beginning to end."
+        },
+        "korean": {
+            "reference": "전도서 3:11",
+            "verse": "하나님이 모든 것을 지으시되 때를 따라 아름답게 하셨고 또 사람에게 영원을 사모하는 마음을 주셨느니라 그러나 하나님의 하시는 일의 시종을 사람으로 측량할 수 없게 하셨도다"
+        }
+    },
+    {
+        "english": {
+            "reference": "Psalms 49:20",
+            "verse": "A man who is in honor, yet does not understand, Is like the beasts that perish."
+        },
+        "korean": {
+            "reference": "시편 49:20",
+            "verse": "존귀에 처하나 깨닫지 못하는 사람은 멸망하는 짐승 같도다"
+        }
+    },
+    {
+        "english": {
+            "reference": "Psalms 144:3-4",
+            "verse": "LORD, what is man, that You take knowledge of him? Or the son of man, that You are mindful of him? Man is like a breath; His days are like a passing shadow."
+        },
+        "korean": {
+            "reference": "시편 144:3-4",
+            "verse": "여호와여 사람이 무엇이관대 주께서 저를 알아 주시며 인생이 무엇이관대 저를 생각하시나이까 사람은 헛것 같고 그의 날은 지나가는 그림자 같으니이다"
+        }
+    },
+    {
+        "english": {
+            "reference": "Isaiah 49:5",
+            "verse": "\"And now the LORD says, Who formed Me from the womb to be His Servant, To bring Jacob back to Him, So that Israel is gathered to Him (For I shall be glorious in the eyes of the LORD, And My God shall be My strength),"
+        },
+        "korean": {
+            "reference": "이사야 49:5",
+            "verse": "나는 여호와의 보시기에 존귀한 자라 나의 하나님이 나의 힘이 되셨도다 다시 야곱을 자기에게로 돌아오게 하시며 이스라엘을 자기에게로 모이게 하시려고 나를 태에서 나옴으로부터 자기 종을 삼으신 여호와께서 말씀하시니라"
+        }
+    },
+    {
+        "english": {
+            "reference": "James 4:14",
+            "verse": "whereas you do not know what will happen tomorrow. For what is your life? It is even a vapor that appears for a little time and then vanishes away."
+        },
+        "korean": {
+            "reference": "야고보서 4:14",
+            "verse": "내일 일을 너희가 알지 못하는도다 너희 생명이 무엇이뇨 너희는 잠깐 보이다가 없어지는 안개니라"
         }
     }
 ]
