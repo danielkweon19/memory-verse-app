@@ -265,7 +265,7 @@ function resetInputsAndValidationStates() {
       <p>{{ currentVerse[currentLanguage].verse }}</p>
       <input type="text" class="form-control mb-2"
         :class="{ 'correct': referenceValidationState === 'correct', 'incorrect': referenceValidationState === 'incorrect' }"
-        placeholder="Enter verse reference" v-model="userReferenceInput">
+        placeholder="Enter verse reference" v-model="userReferenceInput" autoCapitalize='none'>
       <div v-if="referenceValidationState === 'incorrect'" class="text-danger">
         Answer: {{ currentVerse[currentLanguage]["reference"] }}
       </div>
