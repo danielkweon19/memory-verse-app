@@ -231,16 +231,6 @@
     },
     {
         "english": {
-            "reference": "Proverbs 20:27",
-            "verse": "The spirit of a man is the lamp of the LORD, Searching all the inner depths of his heart."
-        },
-        "korean": {
-            "reference": "잠언 20:27",
-            "verse": "사람의 영혼은 여호와의 등불이라 사람의 깊은 속을 살피느니라"
-        }
-    },
-    {
-        "english": {
             "reference": "Psalms 10:4",
             "verse": "The wicked in his proud countenance does not seek God; God is in none of his thoughts."
         },
@@ -308,5 +298,935 @@
             "reference": "야고보서 4:14",
             "verse": "내일 일을 너희가 알지 못하는도다 너희 생명이 무엇이뇨 너희는 잠깐 보이다가 없어지는 안개니라"
         }
-    }
+    },
+    {
+        "english": {
+            "reference": "Ecclesiastes 12:7",
+            "verse": "Then the dust will return to the earth as it was, And the spirit will return to God who gave it."
+        },
+        "korean": {
+            "reference": "전도서 12:7",
+            "verse": "흙은 여전히 땅으로 돌아가고 신은 그 주신 하나님께로 돌아가기 전에 기억하라"
+        }
+    },
+    {
+        "english": {
+            "reference": "Job 19:26",
+            "verse": "And after my skin is destroyed, this I know, That in my flesh I shall see God,"
+        },
+        "korean": {
+            "reference": "욥기 19:26",
+            "verse": "나의 이 가죽, 이것이 썩은 후에 내가 육체 밖에서 하나님을 보리라"
+        }
+    },
+    {
+        "english": {
+            "reference": "Ecclesiastes 3:1-2",
+            "verse": "To everything there is a season, A time for every purpose under heaven: A time to be born, And a time to die; A time to plant, And a time to pluck what is planted;"
+        },
+        "korean": {
+            "reference": "전도서 3:1-2",
+            "verse": "천하에 범사가 기한이 있고 모든 목적이 이룰 때가 있나니 날 때가 있고 죽을 때가 있으며 심을 때가 있고 심은 것을 뽑을 때가 있으며"
+        }
+    },
+    {
+        "english": {
+            "reference": "Ecclesiastes 3:11",
+            "verse": "He has made everything beautiful in its time. Also He has put eternity in their hearts, except that no one can find out the work that God does from beginning to end."
+        },
+        "korean": {
+            "reference": "전도서 3:11",
+            "verse": "하나님이 모든 것을 지으시되 때를 따라 아름답게 하셨고 또 사람에게 영원을 사모하는 마음을 주셨느니라 그러나 하나님의 하시는 일의 시종을 사람으로 측량할 수 없게 하셨도다"
+        }
+    },
+    {
+        "english": {
+            "reference": "Matthew 9:12-13",
+            "verse": "When Jesus heard that, He said to them, \"Those who are well have no need of a physician, but those who are sick. But go and learn what this means: 'I desire mercy and not sacrifice.' For I did not come to call the righteous, but sinners, to repentance.\""
+        },
+        "korean": {
+            "reference": "마태복음 9:12-13",
+            "verse": "예수께서 들으시고 이르시되 건강한 자에게는 의원이 쓸데없고 병든 자에게라야 쓸데있느니라 너희는 가서 내가 긍휼을 원하고 제사를 원치 아니하노라 하신 뜻이 무엇인지 배우라 내가 의인을 부르러 온 것이 아니요 죄인을 부르러 왔노라 하시니라"
+        }
+    },
+    {
+        "english": {
+            "reference": "1 John 3:5",
+            "verse": "And you know that He was manifested to take away our sins, and in Him there is no sin."
+        },
+        "korean": {
+            "reference": "요한일서 3:5",
+            "verse": "그가 우리 죄를 없이 하려고 나타내신 바 된 것을 너희가 아나니 그에게는 죄가 없느니라"
+        }
+    },
+    {
+        "english": {
+            "reference": "1 John 5:10",
+            "verse": "He who believes in the Son of God has the witness in himself; he who does not believe God has made Him a liar, because he has not believed the testimony that God has given of His Son."
+        },
+        "korean": {
+            "reference": "요한일서 5:10",
+            "verse": "하나님의 아들을 믿는 자는 자기 안에 증거가 있고 하나님을 믿지 아니하는 자는 하나님을 거짓말하는 자로 만드나니 이는 하나님께서 그 아들에 관하여 증거하신 증거를 믿지 아니하였음이라"
+        }
+    },
+    {
+        "english": {
+            "reference": "Psalms 51:5",
+            "verse": "Behold, I was brought forth in iniquity, And in sin my mother conceived me."
+        },
+        "korean": {
+            "reference": "시편 51:5",
+            "verse": "내가 죄악 중에 출생하였음이여 모친이 죄 중에 나를 잉태하였나이다"
+        }
+    },
+    {
+        "english": {
+            "reference": "Romans 5:12",
+            "verse": "Therefore, just as through one man sin entered the world, and death through sin, and thus death spread to all men, because all sinned"
+        },
+        "korean": {
+            "reference": "로마서 5:12",
+            "verse": "이러므로 한 사람으로 말미암아 죄가 세상에 들어오고 죄로 말미암아 사망이 왔나니 이와 같이 모든 사람이 죄를 지었으므로 사망이 모든 사람에게 이르렀느니라"
+        }
+    },
+    {
+        "english": {
+            "reference": "Romans 5:19",
+            "verse": "For as by one man's disobedience many were made sinners, so also by one Man's obedience many will be made righteous."
+        },
+        "korean": {
+            "reference": "로마서 5:19",
+            "verse": "한 사람의 순종치 아니함으로 많은 사람이 죄인 된 것 같이 한 사람의 순종하심으로 많은 사람이 의인이 되리라"
+        }
+    },
+    {
+        "english": {
+            "reference": "Psalms 58:3",
+            "verse": "The wicked are estranged from the womb; They go astray as soon as they are born, speaking lies."
+        },
+        "korean": {
+            "reference": "시편 58:3",
+            "verse": "악인은 모태에서부터 멀어졌음이여 나면서부터 곁길로 나아가 거짓을 말하는도다"
+        }
+    },
+    {
+        "english": {
+            "reference": "1 Samuel 16:7",
+            "verse": "But the LORD said to Samuel, \"Do not look at his appearance or at the height of his stature, because I have refused him. For the Lord does not see as man sees; for man looks at the outward appearance, but the LORD looks at the heart.\""
+        },
+        "korean": {
+            "reference": "사무엘상 16:7",
+            "verse": "여호와께서 사무엘에게 이르시되 그 용모와 신장을 보지 말라 내가 이미 그를 버렸노라 나의 보는 것은 사람과 같지 아니하니 사람은 외모를 보거니와 나 여호와는 중심을 보느니라"
+        }
+    },
+    {
+        "english": {
+            "reference": "Proverbs 16:2",
+            "verse": "All the ways of a man are pure in his own eyes, But the LORD weighs the spirits."
+        },
+        "korean": {
+            "reference": "잠언 16:2",
+            "verse": "사람의 행위가 자기 보기에는 모두 깨끗하여도 여호와는 심령을 감찰하시느니라"
+        }
+    },
+    {
+        "english": {
+            "reference": "Jeremiah 17:9-10",
+            "verse": "\"The heart is deceitful above all things, And desperately wicked; Who can know it? I, the LORD, search the heart, I test the mind, Even to give every man according to his ways, According to the fruit of his doings."
+        },
+        "korean": {
+            "reference": "예레미야 17:9-10",
+            "verse": "만물보다 거짓되고 심히 부패한 것은 마음이라 누가 능히 이를 알리요마는 나 여호와는 심장을 살피며 폐부를 시험하고 각각 그 행위와 그 행실대로 보응하나니"
+        }
+    },
+    {
+        "english": {
+            "reference": "Ecclesiastes 9:3",
+            "verse": "This is an evil in all that is done under the sun: that one thing happens to all. Truly the hearts of the sons of men are full of evil; madness is in their hearts while they live, and after that they go to the dead."
+        },
+        "korean": {
+            "reference": "전도서 9:3",
+            "verse": "모든 사람의 결국이 일반인 그것은 해 아래서 모든 일 중에 악한 것이니 곧 인생의 마음에 악이 가득하여 평생에 미친 마음을 품다가 후에는 죽은 자에게로 돌아가는 것이라"
+        }
+    },
+    {
+        "english": {
+            "reference": "Job 14:4",
+            "verse": "Who can bring a clean thing out of an unclean? No one!"
+        },
+        "korean": {
+            "reference": "욥기 14:4",
+            "verse": "누가 깨끗한 것을 더러운 것 가운데서 낼 수 있으리이까 하나도 없나이다"
+        }
+    },
+    {
+        "english": {
+            "reference": "Proverbs 6:16-19",
+            "verse": "These six things the LORD hates, Yes, seven are an abomination to Him: A proud look, A lying tongue, Hands that shed innocent blood, A heart that devises wicked plans, Feet that are swift in running to evil, A false witness who speaks lies, And one who sows discord among brethren."
+        },
+        "korean": {
+            "reference": "잠언 6:16-19",
+            "verse": "여호와의 미워하시는 것 곧 그 마음에 싫어하시는 것이 육 칠 가지니 곧 교만한 눈과 거짓된 혀와 무죄한 자의 피를 흘리는 손과 악한 계교를 꾀하는 마음과 빨리 악으로 달려가는 발과 거짓을 말하는 망령된 증인과 및 형제 사이를 이간하는 자니라"
+        }
+    },
+    {
+        "english": {
+            "reference": "Job 15:15-16",
+            "verse": "If God puts no trust in His saints, And the heavens are not pure in His sight, How much less man, who is abominable and filthy, Who drinks iniquity like water!"
+        },
+        "korean": {
+            "reference": "욥기 15:15-16",
+            "verse": "하나님은 그 거룩한 자들을 믿지 아니하시나니 하늘이라도 그의 보시기에 부정하거든 하물며 악을 짓기를 물 마심같이 하는 가증하고 부패한 사람이겠느냐"
+        }
+    },
+    {
+        "english": {
+            "reference": "2 Corinthians 5:17",
+            "verse": "Therefore, if anyone is in Christ, he is a new creation; old things have passed away; behold, all things have become new."
+        },
+        "korean": {
+            "reference": "고린도후서 5:17",
+            "verse": "그런즉 누구든지 그리스도 안에 있으면 새로운 피조물이라 이전 것은 지나갔으니 보라 새 것이 되었도다"
+        }
+    },
+    {
+        "english": {
+            "reference": "Job 35:7-8",
+            "verse": "If you are righteous, what do you give Him? Or what does He receive from your hand? Your wickedness affects a man such as you, And your righteousness a son of man."
+        },
+        "korean": {
+            "reference": "욥기 35:7-8",
+            "verse": "네가 의로운들 하나님께 무엇을 드리겠으며 그가 네 손에서 무엇을 받으시겠느냐 네 악은 너와 같은 사람이나 해할 따름이요 네 의는 인생이나 유익하게 할 뿐이니라"
+        }
+    },
+    {
+        "english": {
+            "reference": "Isaiah 59:6",
+            "verse": "Their webs will not become garments, Nor will they cover themselves with their works; Their works are works of iniquity, And the act of violence is in their hands."
+        },
+        "korean": {
+            "reference": "욥기 35:7-8",
+            "verse": "그 짠 것으로는 옷을 이룰 수 없을 것이요 그 행위로는 자기를 가리울 수 없을 것이며 그 행위는 죄악의 행위라 그 손에는 강포한 행습이 있으며"
+        }
+    },
+    {
+        "english": {
+            "reference": "Isaiah 59:12",
+            "verse": "For our transgressions are multiplied before You, And our sins testify against us; For our transgressions are with us, And as for our iniquities, we know them:"
+        },
+        "korean": {
+            "reference": "이사야 59:12",
+            "verse": "대저 우리의 허물이 주의 앞에 심히 많으며 우리의 죄가 우리를 쳐서 증거하오니 이는 우리의 허물이 우리와 함께 있음이라 우리의 죄악을 우리가 아나이다"
+        }
+    },
+    {
+        "english": {
+            "reference": "Isaiah 59:1-2",
+            "verse": "Behold, the LORD's hand is not shortened, That it cannot save; Nor His ear heavy, That it cannot hear. But your iniquities have separated you from your God; And your sins have hidden His face from you, So that He will not hear."
+        },
+        "korean": {
+            "reference": "이사야 59:1-2",
+            "verse": "여호와의 손이 짧아 구원치 못하심도 아니요 귀가 둔하여 듣지 못하심도 아니라 오직 너희 죄악이 너희와 너희 하나님 사이를 내었고 너희 죄가 그 얼굴을 가리워서 너희를 듣지 않으시게 함이니"
+        }
+    },
+    {
+        "english": {
+            "reference": "Isaiah 64:6",
+            "verse": "But we are all like an unclean thing, And all our righteousnesses are like filthy rags; We all fade as a leaf, And our iniquities, like the wind, Have taken us away."
+        },
+        "korean": {
+            "reference": "이사야 64:6",
+            "verse": "대저 우리는 다 부정한 자 같아서 우리의 의는 다 더러운 옷 같으며 우리는 다 쇠패함이 잎사귀 같으므로 우리의 죄악이 바람같이 우리를 몰아가나이다"
+        }
+    },
+    {
+        "english": {
+            "reference": "Genesis 3:7",
+            "verse": "Then the eyes of both of them were opened, and they knew that they were naked; and they sewed fig leaves together and made themselves coverings."
+        },
+        "korean": {
+            "reference": "창세기 3:7",
+            "verse": "이에 그들의 눈이 밝아 자기들의 몸이 벗은 줄을 알고 무화과나무 잎을 엮어 치마를 하였더라"
+        }
+    },
+    {
+        "english": {
+            "reference": "Hebrews 9:27",
+            "verse": "And as it is appointed for men to die once, but after this the judgment."
+        },
+        "korean": {
+            "reference": "히브리서 9:27",
+            "verse": "한 번 죽는 것은 사람에게 정하신 것이요 그 후에는 심판이 있으리니"
+        }
+    },
+    {
+        "english": {
+            "reference": "Romans 14:10-12",
+            "verse": "But why do you judge your brother? Or why do you show contempt for your brother? For we shall all stand before the judgment seat of Christ. For it is written: \"As I live, says the LORD, Every knee shall bow to Me, And every tongue shall confess to God.\" So then each of us shall give account of himself to God."
+        },
+        "korean": {
+            "reference": "로마서 14:10-12",
+            "verse": "네가 어찌하여 네 형제를 판단하느뇨 어찌하여 네 형제를 업신여기느뇨 우리가 다 하나님의 심판대 앞에 서리라 기록되었으되 주께서 가라사대 내가 살았노니 모든 무릎이 내게 꿇을 것이요 모든 혀가 하나님께 자백하리라 하였느니라 이러므로 우리 각인이 자기 일을 하나님께 직고하리라"
+        }
+    },
+    {
+        "english": {
+            "reference": "Proverbs 20:27",
+            "verse": "The spirit of a man is the lamp of the LORD, searching all the inner depths of his heart."
+        },
+        "korean": {
+            "reference": "잠언 20:27",
+            "verse": "사람의 영혼은 여호와의 등불이라 사람의 깊은 속을 살피느니라"
+        }
+    },
+    {
+        "english": {
+            "reference": "Romans 2:16",
+            "verse": "In the day when God will judge the secrets of men by Jesus Christ, according to my gospel."
+        },
+        "korean": {
+            "reference": "로마서 2:16",
+            "verse": "하나님이 예수 그리스도로 말미암아 사람들의 은밀한 것을 심판하는 그 날이라"
+        }
+    },
+    {
+        "english": {
+            "reference": "Hebrews 4:13",
+            "verse": "And there is no creature hidden from His sight, but all things are naked and open to the eyes of Him to whom we must give account."
+        },
+        "korean": {
+            "reference": "히브리서 4:13",
+            "verse": "지으신 것이 하나라도 그 앞에 나타나지 않음이 없고 오직 만물이 우리를 상관하시는 자의 눈앞에 벌거벗은 것같이 드러나느니라"
+        }
+    },
+    {
+        "english": {
+            "reference": "Ecclesiastes 8:11",
+            "verse": "Because the sentence against an evil work is not executed speedily, therefore the heart of the sons of men is fully set in them to do evil."
+        },
+        "korean": {
+            "reference": "전도서 8:11",
+            "verse": "악한 일에 징벌이 속히 실행되지 않으므로 인생들이 악을 행하기에 마음이 담대하도다"
+        }
+    },
+    {
+        "english": {
+            "reference": "Psalms 50:21",
+            "verse": "These things you have done, and I kept silent; You thought that I was altogether like you; But I will rebuke you, And set them in order before your eyes."
+        },
+        "korean": {
+            "reference": "시편 50:21",
+            "verse": "네가 이 일을 행하여도 내가 잠잠하였더니 네가 나를 너와 같은 줄로 생각하였도다 그러나 내가 너를 책망하여 네 죄를 네 목전에 차례로 베풀리라 하시는도다"
+        }
+    },
+    {
+        "english": {
+            "reference": "Job 11:11",
+            "verse": "For He knows deceitful men; He sees wickedness also. Will He not then consider it?"
+        },
+        "korean": {
+            "reference": "욥기 11:11",
+            "verse": "하나님은 허망한 사람을 아시나니 악한 일은 상관치 않으시는 듯하나 다 보시느니라"
+        }
+    },
+    {
+        "english": {
+            "reference": "Psalms 130:3",
+            "verse": "If You, LORD, should mark iniquities, O Lord, who could stand?"
+        },
+        "korean": {
+            "reference": "시편 130:3",
+            "verse": "여호와여 주께서 죄악을 감찰하실진대 주여 누가 서리이까"
+        }
+    },
+    {
+        "english": {
+            "reference": "Ecclesiastes 11:9",
+            "verse": "Rejoice, O young man, in your youth, And let your heart cheer you in the days of your youth; Walk in the ways of your heart, And in the sight of your eyes; But know that for all these God will bring you into judgment."
+        },
+        "korean": {
+            "reference": "전도서 11:9",
+            "verse": "청년이여 네 어린 때를 즐거워하며 네 청년의 날을 마음에 기뻐하여 마음에 원하는 길과 네 눈이 보는 대로 좇아 행하라 그러나 하나님이 이 모든 일로 인하여 너를 심판하실 줄 알라"
+        }
+    },
+    {
+        "english": {
+            "reference": "Job 34:21-22",
+            "verse": "\"For His eyes are on the ways of man, And He sees all his steps. There is no darkness nor shadow of death Where the workers of iniquity may hide themselves."
+        },
+        "korean": {
+            "reference": "욥기 34:21-22",
+            "verse": "하나님은 사람의 길을 주목하시며 사람의 모든 걸음을 감찰하시나니 악을 행한 자는 숨을 만한 흑암이나 어두운 그늘이 없느니라"
+        }
+    },
+    {
+        "english": {
+            "reference": "Revelation 20:11-15",
+            "verse": "Then I saw a great white throne and Him who sat on it, from whose face the earth and the heaven fled away. And there was found no place for them. And I saw the dead, small and great, standing before God, and books were opened. And another book was opened, which is the Book of Life. And the dead were judged according to their works, by the things which were written in the books. The sea gave up the dead who were in it, and Death and Hades delivered up the dead who were in them. And they were judged, each one according to his works. Then Death and Hades were cast into the lake of fire. This is the second death. And anyone not found written in the Book of Life was cast into the lake of fire."
+        },
+        "korean": {
+            "reference": "요한계시록 20:11-15",
+            "verse": "또 내가 크고 흰 보좌와 그 위에 앉으신 자를 보니 땅과 하늘이 그 앞에서 피하여 간데없더라 또 내가 보니 죽은 자들이 무론 대소하고 그 보좌 앞에 섰는데 책들이 펴 있고 또 다른 책이 펴졌으니 곧 생명책이라 죽은 자들이 자기 행위를 따라 책들에 기록된 대로 심판을 받으니 바다가 그 가운데서 죽은 자들을 내어 주고 또 사망과 음부도 그 가운데서 죽은 자들을 내어 주매 각 사람이 자기의 행위대로 심판을 받고 사망과 음부도 불못에 던지우니 이것은 둘째 사망 곧 불못이라 누구든지 생명책에 기록되지 못한 자는 불못에 던지우더라"
+        }
+    },
+    {
+        "english": {
+            "reference": "Mark 9:48-49",
+            "verse": "where 'Their worm does not die And the fire is not quenched.'\"For everyone will be seasoned with fire and every sacrifice will be seasoned with salt."
+        },
+        "korean": {
+            "reference": "마가복음 9:48-49",
+            "verse": "거기는 구더기도 죽지 않고 불도 꺼지지 아니하느니라 사람마다 불로서 소금 치듯 함을 받으리라"
+        }
+    },
+    {
+        "english": {
+            "reference": "Revelation 21:8",
+            "verse": "But the cowardly, unbelieving, abominable, murderers, sexually immoral, sorcerers, idolaters, and all liars shall have their part in the lake which burns with fire and brimstone, which is the second death."
+        },
+        "korean": {
+            "reference": "요한계시록 21:8",
+            "verse": "그러나 두려워하는 자들과 믿지 아니하는 자들과 흉악한 자들과 살인자들과 행음자들과 술객들과 우상 숭배자들과 모든 거짓말하는 자들은 불과 유황으로 타는 못에 참여하리니 이것이 둘째 사망이라"
+        }
+    },
+    {
+        "english": {
+            "reference": "James 2:19",
+            "verse": "You believe that there is one God. You do well. Even the demons believe -- and tremble!"
+        },
+        "korean": {
+            "reference": "야고보서 2:19",
+            "verse": "네가 하나님은 한 분이신 줄을 믿느냐 잘하는도다 귀신들도 믿고 떠느니라"
+        }
+    },
+    {
+        "english": {
+            "reference": "1 John 4:18",
+            "verse": "There is no fear in love; but perfect love casts out fear, because fear involves torment. But he who fears has not been made perfect in love."
+        },
+        "korean": {
+            "reference": "요한일서 4:18",
+            "verse": "사랑 안에 두려움이 없고 온전한 사랑이 두려움을 내어쫓나니 두려움에는 형벌이 있음이라 두려워하는 자는 사랑 안에서 온전히 이루지 못하였느니라"
+        }
+    },
+    {
+        "english": {
+            "reference": "Romans 5:5",
+            "verse": "Now hope does not disappoint, because the love of God has been poured out in our hearts by the Holy Spirit who was given to us."
+        },
+        "korean": {
+            "reference": "로마서 5:5",
+            "verse": "소망이 부끄럽게 아니함은 우리에게 주신 성령으로 말미암아 하나님의 사랑이 우리 마음에 부은 바 됨이니"
+        }
+    },
+    {
+        "english": {
+            "reference": "John 3:18",
+            "verse": "\"He who believes in Him is not condemned; but he who does not believe is condemned already, because he has not believed in the name of the only begotten Son of God.\""
+        },
+        "korean": {
+            "reference": "요한복음 3:18",
+            "verse": "저를 믿는 자는 심판을 받지 아니하는 것이요 믿지 아니하는 자는 하나님의 독생자의 이름을 믿지 아니하므로 벌써 심판을 받은 것이니라"
+        }
+    },
+    {
+        "english": {
+            "reference": "Jude 1:7",
+            "verse": "As Sodom and Gomorrah, and the cities around them in a similar manner to these, having given themselves over to sexual immorality and gone after strange flesh, are set forth as an example, suffering the vengeance of eternal fire."
+        },
+        "korean": {
+            "reference": "유다서 1:7",
+            "verse": "소돔과 고모라와 그 이웃 도시들도 저희와 같은 모양으로 간음을 행하며 다른 색을 따라가다가 영원한 불의 형벌을 받음으로 거울이 되었느니라"
+        }
+    },
+    {
+        "english": {
+            "reference": "1 Corinthians 6:18",
+            "verse": "Flee sexual immorality. Every sin that a man does is outside the body, but he who commits sexual immorality sins against his own body."
+        },
+        "korean": {
+            "reference": "고린도전서 6:18",
+            "verse": "음행을 피하라 사람이 범하는 죄마다 몸밖에 있거니와 음행하는 자는 자기 몸에게 죄를 범하느니라"
+        }
+    },
+    {
+        "english": {
+            "reference": "Psalms 34:18",
+            "verse": "The LORD is near to those who have a broken heart, And saves such as have a contrite spirit."
+        },
+        "korean": {
+            "reference": "시편 34:18",
+            "verse": "여호와는 마음이 상한 자에게 가까이 하시고 중심에 통회하는 자를 구원하시는도다"
+        }
+    },
+    {
+        "english": {
+            "reference": "Isaiah 57:15-16",
+            "verse": "For thus says the High and Lofty One Who inhabits eternity, whose name is Holy: 'I dwell in the high and holy place, With him who has a contrite and humble spirit, To revive the spirit of the humble, And to revive the heart of the contrite ones. For I will not contend forever, Nor will I always be angry; For the spirit would fail before Me, And the souls which I have made.'"
+        },
+        "korean": {
+            "reference": "이사야 57:15-16",
+            "verse": "지존 무상하며 영원히 거하며 거룩하다 이름하는 자가 이같이 말씀하시되 내가 높고 거룩한 곳에 거하며 또한 통회하고 마음이 겸손한 자와 함께 거하나니 이는 겸손한 자의 영을 소성케 하며 통회하는 자의 마음을 소성케 하려 함이라 내가 영원히는 다투지 아니하며 내가 장구히는 노하지 아니할 것은 나의 지은 그 영과 혼이 내 앞에서 곤비할까 함이니라"
+        }
+    },
+    {
+        "english": {
+            "reference": "Psalms 51:17",
+            "verse": "The sacrifices of God are a broken spirit, A broken and a contrite heart— These, O God, You will not despise."
+        },
+        "korean": {
+            "reference": "시편 51:17",
+            "verse": "하나님의 구하시는 제사는 상한 심령이라 하나님이여 상하고 통회하는 마음을 주께서 멸시치 아니하시리이다"
+        }
+    },
+    {
+        "english": {
+            "reference": "John 5:39",
+            "verse": "You search the Scriptures, for in them you think you have eternal life; and these are they which testify of Me."
+        },
+        "korean": {
+            "reference": "요한복음 5:39",
+            "verse": "너희가 성경에서 영생을 얻는 줄 생각하고 성경을 상고하거니와 이 성경이 곧 내게 대하여 증거하는 것이로다"
+        }
+    },
+    {
+        "english": {
+            "reference": "Colossians 1:6",
+            "verse": "which has come to you, as it has also in all the world, and is bringing forth fruit, as it is also among you since the day you heard and knew the grace of God in truth;"
+        },
+        "korean": {
+            "reference": "골로새서 1:6",
+            "verse": "이 복음이 이미 너희에게 이르매 너희가 듣고 참으로 하나님의 은혜를 깨달은 날부터 너희 중에서와 같이 또한 온 천하에서도 열매를 맺어 자라는도다"
+        }
+    },
+    {
+        "english": {
+            "reference": "James 1:18",
+            "verse": "Of His own will He brought us forth by the word of truth, that we might be a kind of firstfruits of His creatures."
+        },
+        "korean": {
+            "reference": "야고보서 1:18",
+            "verse": "그가 그 조물 중에 우리로 한 첫 열매가 되게 하시려고 자기의 뜻을 좇아 진리의 말씀으로 우리를 낳으셨느니라"
+        }
+    },
+    {
+        "english": {
+            "reference": "Luke 8:4-8",
+            "verse": "And when a great multitude had gathered, and they had come to Him from every city, He spoke by a parable: 'A sower went out to sow his seed. And as he sowed, some fell by the wayside; and it was trampled down, and the birds of the air devoured it. Some fell on rock; and as soon as it sprang up, it withered away because it lacked moisture. And some fell among thorns, and the thorns sprang up with it and choked it. But others fell on good ground, sprang up, and yielded a crop a hundredfold.' When He had said these things He cried, 'He who has ears to hear, let him hear!'"
+        },
+        "korean": {
+            "reference": "누가복음 8:4-8",
+            "verse": "각 동네 사람들이 예수께로 나아와 큰 무리를 이루니 예수께서 비유로 말씀하시되 씨를 뿌리는 자가 그 씨를 뿌리러 나가서 뿌릴새 더러는 길가에 떨어지매 밟히며 공중의 새들이 먹어 버렸고 더러는 바위 위에 떨어지매 났다가 습기가 없으므로 말랐고 더러는 가시떨기 속에 떨어지매 가시가 함께 자라서 기운을 막았고 더러는 좋은 땅에 떨어지매 나서 백 배의 결실을 하였느니라 이 말씀을 하시고 외치시되 들을 귀 있는 자는 들을지어다"
+        }
+    },
+    {
+        "english": {
+            "reference": "Luke 8:11",
+            "verse": "\"Now the parable is this: The seed is the word of God."
+        },
+        "korean": {
+            "reference": "누가복음 8:11",
+            "verse": "이 비유는 이러하니라 씨는 하나님의 말씀이요"
+        }
+    },
+    {
+        "english": {
+            "reference": "Ecclesiastes 12:14",
+            "verse": "For God will bring every work into judgment, Including every secret thing, Whether good or evil."
+        },
+        "korean": {
+            "reference": "전도서 12:14",
+            "verse": "하나님은 모든 행위와 모든 은밀한 일을 선악간에 심판하시리라"
+        }
+    },
+    {
+        "english": {
+            "reference": "Romans 7:12",
+            "verse": "Therefore the law is holy, and the commandment holy and just and good."
+        },
+        "korean": {
+            "reference": "로마서 7:12",
+            "verse": "이로 보건대 율법도 거룩하며 계명도 거룩하며 의로우며 선하도다"
+        }
+    },
+    {
+        "english": {
+            "reference": "Matthew 5:21-22",
+            "verse": "\"You have heard that it was said to those of old, ‘You shall not murder, and whoever murders will be in danger of the judgment.’ But I say to you that whoever is angry with his brother without a cause shall be in danger of the judgment. And whoever says to his brother, ‘Raca!’ shall be in danger of the council. But whoever says, ‘You fool!’ shall be in danger of hell fire."
+        },
+        "korean": {
+            "reference": "마태복음 5:21-22",
+            "verse": "옛 사람에게 말한 바 살인치 말라 누구든지 살인하면 심판을 받게 되리라 하였다는 것을 너희가 들었으나 나는 너희에게 이르노니 형제에게 노하는 자마다 심판을 받게 되고 형제를 대하여 라가라 하는 자는 공회에 잡히게 되고 미련한 놈이라 하는 자는 지옥 불에 들어가게 되리라"
+        }
+    },
+    {
+        "english": {
+            "reference": "Matthew 5:27-28",
+            "verse": "\"You have heard that it was said to those of old, ‘You shall not commit adultery.’ But I say to you that whoever looks at a woman to lust for her has already committed adultery with her in his heart."
+        },
+        "korean": {
+            "reference": "마태복음 5:27-28",
+            "verse": "또 간음치 말라 하였다는 것을 너희가 들었으나 나는 너희에게 이르노니 여자를 보고 음욕을 품는 자마다 마음에 이미 간음하였느니라"
+        }
+    },
+    {
+        "english": {
+            "reference": "Romans 7:18",
+            "verse": "For I know that in me (that is, in my flesh) nothing good dwells; for to will is present with me, but how to perform what is good I do not find."
+        },
+        "korean": {
+            "reference": "로마서 7:18",
+            "verse": "내 속 곧 내 육신에 선한 것이 거하지 아니하는 줄을 아노니 원함은 내게 있으나 선을 행하는 것은 없노라"
+        }
+    },
+    {
+        "english": {
+            "reference": "Romans 3:20",
+            "verse": "Therefore no one will be declared righteous in God's sight by the works of the law; rather, through the law we become conscious of our sin."
+        },
+        "korean": {
+            "reference": "로마서 3:20",
+            "verse": "그러므로 율법의 행위로 그의 앞에 의롭다 하심을 얻을 육체가 없나니 율법으로는 죄를 깨달음이니라."
+        }
+    },
+    {
+        "english": {
+            "reference": "Romans 7:12",
+            "verse": "So then, the law is holy, and the commandment is holy, righteous and good."
+        },
+        "korean": {
+            "reference": "로마서 7:12",
+            "verse": "이로 보건대 율법도 거룩하며 계명도 거룩하며 의로우며 선하도다."
+        }
+    },
+    {
+        "english": {
+            "reference": "Matthew 5:21-22",
+            "verse": "You have heard that it was said to the people long ago, 'You shall not murder, and anyone who murders will be subject to judgment.' But I tell you that anyone who is angry with a brother or sister will be subject to judgment. Again, anyone who says to a brother or sister, 'Raca,' is answerable to the court. And anyone who says, 'You fool!' will be in danger of the fire of hell."
+        },
+        "korean": {
+            "reference": "마태복음 5:21-22",
+            "verse": "옛 사람에게 말한 바 살인치 말라 누구든지 살인하면 심판을 받게 되리라 하였다는 것을 너희가 들었으나 나는 너희에게 이르노니 형제에게 노하는 자마다 심판을 받게 되고 형제를 대하여 라가라 하는 자는 공회에 잡히게 되고 미련한 놈이라 하는 자는 지옥 불에 들어가게 되리라"
+        }
+    },
+    {
+        "english": {
+            "reference": "Matthew 5:27-28",
+            "verse": "You have heard that it was said, 'You shall not commit adultery.' But I tell you that anyone who looks at a woman lustfully has already committed adultery with her in his heart."
+        },
+        "korean": {
+            "reference": "마태복음 5:27-28",
+            "verse": "또 간음치 말라 하였다는 것을 너희가 들었으나 나는 너희에게 이르노니 여자를 보고 음욕을 품는 자마다 마음에 이미 간음하였느니라"
+        }
+    },
+    {
+        "english": {
+            "reference": "Romans 7:18",
+            "verse": "For I know that nothing good dwells in me, that is, in my flesh. For the will is present with me, but how to perform what is good, I do not find."
+        },
+        "korean": {
+            "reference": "로마서 7:18",
+            "verse": "내 속 곧 내 육신에 선한 것이 거하지 아니하는 줄을 아노니 원함은 내게 있으나 선을 행하는 것은 없노라"
+        }
+    },
+    {
+        "english": {
+            "reference": "1 Timothy 1:9-10",
+            "verse": "Knowing this, that the law is not laid down for the just but for the lawless and disobedient, for the ungodly and sinners, for the unholy and profane, for murderers of fathers and murderers of mothers, for manslayers,"
+        },
+        "korean": {
+            "reference": "디모데전서 1:9-10",
+            "verse": "알 것은 이것이니 법은 옳은 사람을 위하여 세운 것이 아니요 오직 불법한 자와 복종치 아니하는 자며 경건치 아니한 자와 죄인이며 거룩하지 아니한 자와 망령된 자며 아비를 치는 자와 어미를 치는 자며 살인하는 자며 음행하는 자며 남색하는 자며 사람을 탈취하는 자며 거짓말하는 자며 거짓 맹세하는 자와 기타 바른 교훈을 거스리는 자를 위함이니"
+        }
+    },
+    {
+        "english": {
+            "reference": "Romans 3:19-20",
+            "verse": "Now we know that whatever the law says, it says to those who are under the law, that every mouth may be stopped, and all the world may become guilty before God. Therefore by the deeds of the law no flesh will be justified in His sight, for by the law is the knowledge of sin."
+        },
+        "korean": {
+            "reference": "로마서 3:19-20",
+            "verse": "우리가 알거니와 무릇 율법이 말하는 바는 율법 아래 있는 자들에게 말하는 것이니 이는 모든 입을 막고 온 세상으로 하나님의 심판 아래 있게 하려 함이니라 그러므로 율법의 행위로 그의 앞에 의롭다 하심을 얻을 육체가 없나니 율법으로는 죄를 깨달음이니라."
+        }
+    },
+    {
+        "english": {
+            "reference": "Galatians 3:24",
+            "verse": "Therefore the law was our tutor to bring us to Christ, that we might be justified by faith."
+        },
+        "korean": {
+            "reference": "갈라디아서 3:24",
+            "verse": "이같이 율법이 우리를 그리스도에게로 인도하는 몽학선생이 되어 우리로 하여금 믿음으로 말미암아 의롭다 함을 얻게 하려 함이니라."
+        }
+    },
+    {
+        "english": {
+            "reference": "Galatians 3:10",
+            "verse": "For as many as are of the works of the law are under the curse; for it is written, \"Cursed is everyone who does not continue in all things which are written in the book of the law, to do them.\""
+        },
+        "korean": {
+            "reference": "갈라디아서 3:10",
+            "verse": "무릇 율법 행위에 속한 자들은 저주 아래 있나니 기록된 바 누구든지 율법책에 기록된 대로 온갖 일을 항상 행하지 아니하는 자는 저주 아래 있는 자라 하였음이라"
+        }
+    },
+    {
+        "english": {
+            "reference": "Galatians 2:21",
+            "verse": "I do not set aside the grace of God; for if righteousness comes through the law, then Christ died in vain."
+        },
+        "korean": {
+            "reference": "갈라디아서 2:21",
+            "verse": "내가 하나님의 은혜를 폐하지 아니하노니 만일 의롭게 되는 것이 율법으로 말미암으면 그리스도께서 헛되이 죽으셨느니라"
+        }
+    },
+    {
+        "english": {
+          "reference": "Galatians 3:11-12",
+          "verse": "But that no one is justified by the law in the sight of God is evident, for 'the just shall live by faith.' Yet the law is not of faith, but 'the man who does them shall live by them.'"
+        },
+        "korean": {
+          "reference": "갈라디아서 3:11-12",
+          "verse": "또 하나님 앞에서 아무나 율법으로 말미암아 의롭게 되지 못할 것이 분명하니 이는 의인이 믿음으로 살리라 하였음이니라 율법은 믿음에서 난 것이 아니라 이를 행하는 자는 그 가운데서 살리라 하였느니라"
+        }
+      },
+      {
+        "english": {
+          "reference": "Galatians 5:4",
+          "verse": "You have become estranged from Christ, you who attempt to be justified by law; you have fallen from grace."
+        },
+        "korean": {
+          "reference": "갈라디아서 5:4",
+          "verse": "율법 안에서 의롭다 함을 얻으려 하는 너희는 그리스도에게서 끊어지고 은혜에서 떨어진 자로다"
+        }
+      },
+      {
+        "english": {
+          "reference": "Romans 10:2-3",
+          "verse": "For I bear them witness that they have a zeal for God, but not according to knowledge. For they being ignorant of God’s righteousness, and seeking to establish their own righteousness, have not submitted to the righteousness of God."
+        },
+        "korean": {
+          "reference": "로마서 10:2-3",
+          "verse": "내가 증거하노니 저희가 하나님께 열심이 있으나 지식을 좇은 것이 아니라 하나님의 의를 모르고 자기 의를 세우려고 힘써 하나님의 의를 복종치 아니하였느니라"
+        }
+      },
+      {
+        "english": {
+          "reference": "Matthew 7:21-23",
+          "verse": "\"Not everyone who says to Me, ‘Lord, Lord,’ shall enter the kingdom of heaven, but he who does the will of My Father in heaven. Many will say to Me in that day, ‘Lord, Lord, have we not prophesied in Your name, cast out demons in Your name, and done many wonders in Your name?’ And then I will declare to them, ‘I never knew you; depart from Me, you who practice lawlessness!’"
+        },
+        "korean": {
+          "reference": "마태복음 7:21-23",
+          "verse": "나더러 주여 주여 하는 자마다 천국에 다 들어갈 것이 아니요 다만 하늘에 계신 내 아버지의 뜻대로 행하는 자라야 들어가리라 그 날에 많은 사람이 나더러 이르되 주여 주여 우리가 주의 이름으로 선지자 노릇 하며 주의 이름으로 귀신을 쫓아내며 주의 이름으로 많은 권능을 행치 아니하였나이까 하리니 그 때에 내가 저희에게 밝히 말하되 내가 너희를 도무지 알지 못하니 불법을 행하는 자들아 내게서 떠나가라 하리라"
+        }
+      },
+      {
+        "english": {
+          "reference": "2 Corinthians 13:5",
+          "verse": "Examine yourselves as to whether you are in the faith. Test yourselves. Do you not know yourselves, that Jesus Christ is in you? -- unless indeed you are disqualified."
+        },
+        "korean": {
+          "reference": "고린도후서 13:5",
+          "verse": "너희가 믿음에 있는가 너희 자신을 시험하고 너희 자신을 확증하라 예수 그리스도께서 너희 안에 계신 줄을 너희가 스스로 알지 못하느냐 그렇지 않으면 너희가 버리운 자니라"
+        }
+      },
+      {
+        "english": {
+          "reference": "Matthew 15:13-14",
+          "verse": "But He answered and said, “Every plant which My heavenly Father has not planted will be uprooted. Let them alone. They are blind leaders of the blind. And if the blind leads the blind, both will fall into a ditch.”"
+        },
+        "korean": {
+          "reference": "마태복음 15:13-14",
+          "verse": "예수께서 대답하여 가라사대 심은 것마다 내 천부께서 심으시지 않은 것은 뽑힐 것이니 그냥 두어라 저희는 소경이 되어 소경을 인도하는 자로다 만일 소경이 소경을 인도하면 둘이 다 구덩이에 빠지리라 하신대"
+        }
+      },
+      {
+        "english": {
+          "reference": "Genesis 3:21",
+          "verse": "Also for Adam and his wife the LORD God made tunics of skin, and clothed them."
+        },
+        "korean": {
+          "reference": "창세기 3:21",
+          "verse": "여호와 하나님이 아담과 그 아내를 위하여 가죽옷을 지어 입히시니라"
+        }
+      },
+      {
+        "english": {
+          "reference": "Genesis 4:8",
+          "verse": "Now Cain talked with Abel his brother; and it came to pass, when they were in the field, that Cain rose up against Abel his brother and killed him."
+        },
+        "korean": {
+          "reference": "창세기 4:8",
+          "verse": "가인이 그 아우 아벨에게 고하니라 그 후 그들이 들에 있을 때에 가인이 그 아우 아벨을 쳐죽이니라"
+        }
+      },
+      {
+        "english": {
+          "reference": "Luke 18:9-14",
+          "verse": "Also He spoke this parable to some who trusted in themselves that they were righteous, and despised others: “Two men went up to the temple to pray, one a Pharisee and the other a tax collector. The Pharisee stood and prayed thus with himself, ‘God, I thank You that I am not like other men—extortioners, unjust, adulterers, or even as this tax collector. I fast twice a week; I give tithes of all that I possess.’ And the tax collector, standing afar off, would not so much as raise his eyes to heaven, but beat his breast, saying, ‘God, be merciful to me a sinner!’ I tell you, this man went down to his house justified rather than the other; for everyone who exalts himself will be humbled, and he who humbles himself will be exalted.”"
+        },
+        "korean": {
+          "reference": "누가복음 18:9-14",
+          "verse": "또 자기를 의롭다고 믿고 다른 사람을 멸시하는 자들에게 이 비유로 말씀하시되 두 사람이 기도하러 성전에 올라가니 하나는 바리새인이요 하나는 세리라 바리새인은 서서 따로 기도하여 가로되 하나님이여 나는 다른 사람들 곧 토색, 불의, 간음을 하는 자들과 같지 아니하고 이 세리와도 같지 아니함을 감사하나이다 나는 이레에 두 번씩 금식하고 또 소득의 십일조를 드리나이다 하고 세리는 멀리 서서 감히 눈을 들어 하늘을 우러러 보지도 못하고 다만 가슴을 치며 가로되 하나님이여 불쌍히 여기옵소서 나는 죄인이로소이다 하였느니라 내가 너희에게 이르노니 이 사람이 저보다 의롭다 하심을 받고 집에 내려갔느니라 무릇 자기를 높이는 자는 낮아지고 자기를 낮추는 자는 높아지리라 하시니라"
+        }
+      },
+      {
+        "english": {
+          "reference": "Isaiah 61:10",
+          "verse": "I will greatly rejoice in the LORD, My soul shall be joyful in my God; For He has clothed me with the garments of salvation, He has covered me with the robe of righteousness, As a bridegroom decks himself with ornaments, And as a bride adorns herself with her jewels."
+        },
+        "korean": {
+          "reference": "이사야 61:10",
+          "verse": "내가 여호와로 인하여 크게 기뻐하며 내 영혼이 나의 하나님으로 인하여 즐거워하리니 이는 그가 구원의 옷으로 내게 입히시며 의의 겉옷으로 내게 더하심이 신랑이 사모를 쓰며 신부가 자기 보물로 단장함 같게 하셨음이라"
+        }
+      },
+      {
+        "english": {
+          "reference": "Exodus 12:13",
+          "verse": "'Now the blood shall be a sign for you on the houses where you are. And when I see the blood, I will pass over you; and the plague shall not be on you to destroy you when I strike the land of Egypt."
+        },
+        "korean": {
+          "reference": "출애굽기 12:13",
+          "verse": "내가 애굽 땅을 칠 때에 그 피가 너희의 거하는 집에 있어서 너희를 위하여 표적이 될지라 내가 피를 볼 때에 너희를 넘어가리니 재앙이 너희에게 내려 멸하지 아니하리라"
+        }
+      },
+      {
+        "english": {
+          "reference": "1 Corinthians 5:7",
+          "verse": "Therefore purge out the old leaven, that you may be a new lump, since you truly are unleavened. For indeed Christ, our Passover, was sacrificed for us."
+        },
+        "korean": {
+          "reference": "고린도전서 5:7",
+          "verse": "너희는 누룩 없는 자인데 새 덩어리가 되기 위하여 묵은 누룩을 내어 버리라 우리의 유월절 양 곧 그리스도께서 희생이 되셨느니라"
+        }
+      },
+      {
+        "english": {
+          "reference": "Hebrews 9:12",
+          "verse": "Not with the blood of goats and calves, but with His own blood He entered the Most Holy Place once for all, having obtained eternal redemption."
+        },
+        "korean": {
+          "reference": "히브리서 9:12",
+          "verse": "염소와 송아지의 피로 아니하고 오직 자기 피로 영원한 속죄를 이루사 단번에 성소에 들어가셨느니라"
+        }
+      },
+      {
+        "english": {
+          "reference": "Hebrews 9:24-26",
+          "verse": "For Christ has not entered the holy places made with hands, which are copies of the true, but into heaven itself, now to appear in the presence of God for us; not that He should offer Himself often, as the high priest enters the Most Holy Place every year with blood of another— He then would have had to suffer often since the foundation of the world; but now, once at the end of the ages, He has appeared to put away sin by the sacrifice of Himself."
+        },
+        "korean": {
+          "reference": "히브리서 9:24-26",
+          "verse": "그리스도께서는 참 것의 그림자인 손으로 만든 성소에 들어가지 아니하시고 오직 참 하늘에 들어가사 이제 우리를 위하여 하나님 앞에 나타나시고 대제사장이 해마다 다른 것의 피로써 성소에 들어가는 것같이 자주 자기를 드리려고 아니하실지니 그리하면 그가 세상을 창조할 때부터 자주 고난을 받았어야 할 것이로되 이제 자기를 단번에 제사로 드려 죄를 없게 하시려고 세상 끝에 나타나셨느니라"
+        }
+      },
+      {
+        "english": {
+          "reference": "Hebrews 7:24-25",
+          "verse": "But He, because He continues forever, has an unchangeable priesthood. Therefore He is also able to save to the uttermost those who come to God through Him, since He always lives to make intercession for them."
+        },
+        "korean": {
+          "reference": "히브리서 7:24-25",
+          "verse": "예수는 영원히 계시므로 그 제사 직분도 갈리지 아니하나니 그러므로 자기를 힘입어 하나님께 나아가는 자들을 온전히 구원하실 수 있으니 이는 그가 항상 살아서 저희를 위하여 간구하심이니라"
+        }
+      },
+      {
+        "english": {
+          "reference": "Isaiah 43:25",
+          "verse": "\"I, even I, am He who blots out your transgressions for My own sake; And I will not remember your sins."
+        },
+        "korean": {
+          "reference": "이사야 43:25",
+          "verse": "나 곧 나는 나를 위하여 네 허물을 도말하는 자니 네 죄를 기억지 아니하리라"
+        }
+      },
+      {
+        "english": {
+          "reference": "Isaiah 44:22",
+          "verse": "I have blotted out, like a thick cloud, your transgressions, And like a cloud, your sins. Return to Me, for I have redeemed you.\""
+        },
+        "korean": {
+          "reference": "이사야 44:22",
+          "verse": "내가 네 허물을 빽빽한 구름의 사라짐같이, 네 죄를 안개의 사라짐같이 도말하였으니 너는 내게로 돌아오라 내가 너를 구속하였음이니라"
+        }
+      },
+      {
+        "english": {
+          "reference": "Luke 15:22-24",
+          "verse": "\"But the father said to his servants, ‘Bring out the best robe and put it on him, and put a ring on his hand and sandals on his feet. And bring the fatted calf here and kill it, and let us eat and be merry; for this my son was dead and is alive again; he was lost and is found.’ And they began to be merry."
+        },
+        "korean": {
+          "reference": "누가복음 15:22-24",
+          "verse": "아버지는 종들에게 이르되 제일 좋은 옷을 내어다가 입히고 손에 가락지를 끼우고 발에 신을 신기라 그리고 살진 송아지를 끌어다가 잡으라 우리가 먹고 즐기자 이 내 아들은 죽었다가 다시 살아났으며 내가 잃었다가 다시 얻었노라 하니 저희가 즐거워하더라"
+        }
+      },
+      {
+        "english": {
+          "reference": "John 3:18",
+          "verse": "He who believes in Him is not condemned; but he who does not believe is condemned already, because he has not believed in the name of the only begotten Son of God"
+        },
+        "korean": {
+          "reference": "요한복음 3:18",
+          "verse": "저를 믿는 자는 심판을 받지 아니하는 것이요 믿지 아니하는 자는 하나님의 독생자의 이름을 믿지 아니하므로 벌써 심판을 받은 것이니라"
+        }
+      },
+      {
+        "english": {
+          "reference": "John 3:36",
+          "verse": "He who believes in the Son has everlasting life; and he who does not believe the Son shall not see life, but the wrath of God abides on him.\""
+        },
+        "korean": {
+          "reference": "요한복음 3:36",
+          "verse": "아들을 믿는 자는 영생이 있고 아들을 순종치 아니하는 자는 영생을 보지 못하고 도리어 하나님의 진노가 그 위에 머물러 있느니라"
+        }
+      },
+      {
+        "english": {
+          "reference": "Romans 4:5-8",
+          "verse": "But to him who does not work but believes on Him who justifies the ungodly, his faith is accounted for righteousness, just as David also describes the blessedness of the man to whom God imputes righteousness apart from works: \"Blessed are those whose lawless deeds are forgiven, And whose sins are covered; Blessed is the man to whom the Lord shall not impute sin.\""
+        },
+        "korean": {
+          "reference": "로마서 4:5-8",
+          "verse": "일을 아니할지라도 경건치 아니한 자를 의롭다 하시는 이를 믿는 자에게는 그의 믿음을 의로 여기시나니 일한 것이 없이 하나님께 의로 여기심을 받는 사람의 행복에 대하여 다윗의 말한 바 그 불법을 사하심을 받고 그 죄를 가리우심을 받는 자는 복이 있고 주께서 그 죄를 인정치 아니하실 사람은 복이 있도다 함과 같으니라"
+        }
+      },
+      {
+        "english": {
+          "reference": "John 5:24",
+          "verse": "Most assuredly, I say to you, he who hears My word and believes in Him who sent Me has everlasting life, and shall not come into judgment, but has passed from death into life."
+        },
+        "korean": {
+          "reference": "요한복음 5:24",
+          "verse": "내가 진실로 진실로 너희에게 이르노니 내 말을 듣고 또 나 보내신 이를 믿는 자는 영생을 얻었고 심판에 이르지 아니하나니 사망에서 생명으로 옮겼느니라"
+        }
+      },
+      {
+        "english": {
+          "reference": "James 4:4",
+          "verse": "Adulterers and adulteresses! Do you not know that friendship with the world is enmity with God? Whoever therefore wants to be a friend of the world makes himself an enemy of God."
+        },
+        "korean": {
+          "reference": "야고보서 4:4",
+          "verse": "간음하는 여자들이여 세상과 벗된 것이 하나님의 원수임을 알지 못하느뇨 그런즉 누구든지 세상과 벗이 되고자 하는 자는 스스로 하나님과 원수 되게 하는 것이니라"
+        }
+      },
+      {
+        "english": {
+          "reference": "John 3:5",
+          "verse": "Jesus answered, \"Most assuredly, I say to you, unless one is born of water and the Spirit, he cannot enter the kingdom of God."
+        },
+        "korean": {
+          "reference": "요한복음 3:5",
+          "verse": "예수께서 대답하시되 진실로 진실로 네게 이르노니 사람이 물과 성령으로 나지 아니하면 하나님 나라에 들어갈 수 없느니라"
+        }
+      },
+      {
+        "english": {
+          "reference": "1 Peter 2:22",
+          "verse": "\"Who committed no sin, Nor was deceit found in His mouth\";"
+        },
+        "korean": {
+          "reference": "베드로전서 2:22",
+          "verse": "저는 죄를 범치 아니하시고 그 입에 궤사도 없으시며"
+        }
+      }
 ]

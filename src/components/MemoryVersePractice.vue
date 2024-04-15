@@ -147,14 +147,21 @@ function checkAnswers() {
   }
 }
 
-function goToNextRandomVerse() {
-  let newIndex;
-  do {
-    newIndex = Math.floor(Math.random() * currentSet.length);
-  } while (newIndex === currentVerseIndex.value); // Ensure the new index is different from the current one
+function goToNextVerse() {
+  // Increment the index to go to the next verse
+  let newIndex = currentVerseIndex.value + 1;
 
-  currentVerseIndex.value = newIndex; // Update the current verse index with the new random index
-  resetInputsAndValidationStates()
+  // Check if newIndex goes beyond the last index of currentSet
+  if (newIndex >= currentSet.length) {
+    // Option 1: Reset to 0 to loop back to the first verse
+    newIndex = 0;
+
+    // Option 2: Uncomment below to stop at the last verse instead of looping
+    // newIndex = currentSet.length - 1;
+  }
+
+  currentVerseIndex.value = newIndex; // Update the current verse index with the new index
+  resetInputsAndValidationStates();
 }
 
 
@@ -250,7 +257,7 @@ function resetInputsAndValidationStates() {
           <template v-if="item.type === 'blank'">
             <input type="text" class="blank-input" v-model="item.userInput"
               :class="{ 'correct': item.validationState === 'correct', 'incorrect': item.validationState === 'incorrect' }"
-              @keyup.enter="checkAnswers">
+              @keyup.enter="checkAnswers" autoCapitalize='none'>
           </template>
           <template v-else>
             {{ item.value }}
@@ -265,7 +272,7 @@ function resetInputsAndValidationStates() {
       <p>{{ currentVerse[currentLanguage].verse }}</p>
       <input type="text" class="form-control mb-2"
         :class="{ 'correct': referenceValidationState === 'correct', 'incorrect': referenceValidationState === 'incorrect' }"
-        placeholder="Enter verse reference" v-model="userReferenceInput" autoCapitalize='none'>
+        placeholder="Enter verse reference" v-model="userReferenceInput" @keyup.enter="checkAnswers">
       <div v-if="referenceValidationState === 'incorrect'" class="text-danger">
         Answer: {{ currentVerse[currentLanguage]["reference"] }}
       </div>
@@ -282,7 +289,7 @@ function resetInputsAndValidationStates() {
     <div class="d-flex gap-2 mt-3">
       <button class="btn btn-success" @click="checkAnswers">Submit <UploadSVG/> </button>
       <button class="btn btn-warning" @click="retryCurrentVerse">Retry Verse <RedoSVG /></button>
-      <button class="btn btn-secondary" @click="goToNextRandomVerse">Next Verse <NextSVG /></button>
+      <button class="btn btn-secondary" @click="goToNextVerse">Next Verse <NextSVG /></button>
     </div>
   </div>
 </template>
